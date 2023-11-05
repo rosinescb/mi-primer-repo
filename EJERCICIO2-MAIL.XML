@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mail>
+    <destinatario>
+        <nombre>nombre1</nombre>
+        <mail>nombre1@gmail.com</mail>
+    </destinatario>
+    <remitente>
+        <nombre>nombre2</nombre>
+        <mail>nombre2@gmail.com</mail>
+    </remitente>
+    <asunto>el que sea</asunto>
+    <texto>
+        <parrafo>buenos días</parrafo>
+    </texto>
+</mail>
