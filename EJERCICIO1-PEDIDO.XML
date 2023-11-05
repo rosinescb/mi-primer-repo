@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pedido>
+    <destinatario>
+        <nombre>Pedro</nombre>
+        <Apellido1>Martin</Apellido1> 
+        <Apellido2>Martinez</Apellido2>
+    </destinatario>
+    <dirección>
+        <calle>
+             <nombre>Virgen de la cruz</nombre>
+            <numero>2</numero>
+        </calle>
+        <piso letra="A">septimo</piso>
+    </dirección>
+         <articulo>tablet Samsung Galaxy Tab A8</articulo>
+         <fecha>
+            <dia>17</dia>
+            <mes>octubre</mes>
+             <año>2022</año>
+        </fecha>
+</pedido>
