@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deportistas>
+    <deporte tipo="atletismo">
+        <NombreDeportista>Fermin Cacho</NombreDeportista>
+    </deporte>
+    <deporte tipo="tenis">
+        <NombreDeportista>Rafael Nadal</NombreDeportista>
+    </deporte>
+    <deporte tipo="Baloncesto">
+        <NombreDeportista>Pau Gasol</NombreDeportista>
+    </deporte>
+</deportistas>
