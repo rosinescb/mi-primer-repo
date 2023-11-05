@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cine>
+    <pelicula titulo="El señor de los anillos" director="Peter Jackson"/>
+    <pelicula titulo="Star Wars" director="George Lucas"/>
+    <pelicula director="Steven Spielberg"/>
+</cine>
