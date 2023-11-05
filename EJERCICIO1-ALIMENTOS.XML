@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alimentos>
+    <legumbres>
+    <alimento variedad="cocidos" calorias="1090">garbanzos</alimento>
+    <alimento variedad="estofadas" calorias="690">lentejas</alimento>
+    <alimento variedad="pintas" calorias="285">alubias</alimento>
+    <alimento variedad="secos" calorias="346">guisantes</alimento>
+    <alimento variedad="rehogadas" calorias="100">habas</alimento>
+    <alimento variedad="fabada" calorias="1300">judias</alimento>
+</legumbres>
+<verduras>
+    <alimento variedad="blancos" calorias="15">esparragos</alimento>
+    <alimento variedad="asados" calorias="55">pimientos</alimento>
+    <alimento variedad="parrilla" calorias="28">berenjenas</alimento>
+    <alimento variedad="fritos" calorias="71">tomates</alimento>
+    <alimento variedad="fritas" calorias="234">patatas</alimento>
+    <alimento variedad="fresco" calorias="9">apio</alimento>
+</verduras>
+<pescados>
+    <alimento variedad="fritos" calorias="118">calamares</alimento>
+    <alimento variedad="en aceite" calorias="185">anchoas</alimento>
+    <alimento variedad="plancha" calorias="92">merluza</alimento>
+    <alimento variedad="fresca" calorias="145">sardinas</alimento>
+    <alimento variedad="en aceite" calorias="274">atun</alimento>
+    <alimento variedad="ahumado" calorias="210">salmon</alimento>
+</pescados>
+<aperitivos>
+    <alimento variedad="fritas" calorias="589">almendras</alimento>
+    <alimento variedad="rusa" calorias="152">ensaladilla</alimento>
+    <alimento variedad="caseras" calorias="102">croquetas</alimento>
+    <alimento variedad="rellenas" calorias="221">aceitunas</alimento>
+    <alimento variedad="chips" calorias="568">patatas</alimento>
+    <alimento variedad="cocidas" calorias="102">gambas</alimento>
+</aperitivos>
+<frutas>
+    <alimento variedad="fresco" calorias="136">aguacate</alimento>
+    <alimento variedad="fresco" calorias="84">platano</alimento>
+    <alimento variedad="fresco" calorias="58">cerezas</alimento>
+    <alimento variedad="fresco" calorias="50">piña</alimento>
+    <alimento variedad="fresco" calorias="70">pera</alimento>
+    <alimento variedad="fresco" calorias="73">kiwi</alimento>
+</frutas>
+<carnes>
+    <alimento variedad="escalope" calorias="326">ternera</alimento>
+    <alimento variedad="asado" calorias="575">cordero</alimento>
+    <alimento variedad="horno" calorias="825">cochinillo</alimento>
+    <alimento variedad="asado" calorias="844">cerdo</alimento>
+    <alimento variedad="parrilla" calorias="120">pollo</alimento>
+    <alimento variedad="asado" calorias="232">pato</alimento>
+</carnes>
+<bebidas>
+    <alimento variedad="ron" calorias="327">cubalibre</alimento>
+    <alimento variedad="negra" calorias="110">cerveza</alimento>
+    <alimento variedad="solo" calorias="499">whiski</alimento>
+    <alimento variedad="tinto" calorias="170">vino</alimento>
+    <alimento variedad="brut" calorias="80">cava</alimento>
+    <alimento variedad="con alcohol" calorias="421">sangria</alimento>
+</bebidas>
+<varios>
+    <alimento variedad="carne" calorias="536">raviolis</alimento>
+    <alimento variedad="pollo" calorias="780">canelones</alimento>
+    <alimento variedad="con leche" calorias="655">chocolate</alimento>
+    <alimento variedad="vainilla" calorias="259">helado</alimento>
+    <alimento variedad="basica" calorias="300">pizza</alimento>
+    <alimento variedad="blanco" calorias="130">pan</alimento>
+</varios>
+</alimentos>
