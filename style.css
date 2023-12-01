@@ -1,0 +1,15 @@
+
+body{background-color:white;
+    margin: 45px;
+padding:10px;
+}
+h1{font-family:Tahoma;}
+h3{color:red;text-align: center;
+font-family:'Tahoma';}
+ol{color: red; }
+p{color: black;}
+.text-center{text-align: center;}
+svg{color: red;}
+footer{background-color: white;}
+dl{text-align: justify;}
+img{padding-bottom: 20px;} 
